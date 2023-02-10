@@ -1,4 +1,4 @@
-#THis program follows Lab 3.1
+#1st program as part of Lab 3.1
 #Author: OOS
 
 var_i = 3
