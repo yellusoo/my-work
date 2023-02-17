@@ -1,4 +1,4 @@
-#Week 4, Lecture 1 2nd program
+#Week 4, Lab 1 2nd program
 #This program checks a students grade and reports their result
 #Author: OOS
 
